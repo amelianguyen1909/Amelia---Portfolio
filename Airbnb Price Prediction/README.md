@@ -13,6 +13,6 @@ There are 6 files in this repository:
 * `neighborhood_test.csv`: CSV file containing all of the cleansed neighborhood for the train dataset.
 * `pred_forest.csv`: CSV file containing predictions using Random Forest model.
 * `pred_xgb.csv`: CSV file containing predictions using XGBoost model.
-* `predictions_MLP.csv` : CSV file containing predictions using Neural Network model.
+* `pred_MLP.csv` : CSV file containing predictions using Neural Network model.
 
 All of the data (train dataset and test dataset) can be found in the `data` folder.
