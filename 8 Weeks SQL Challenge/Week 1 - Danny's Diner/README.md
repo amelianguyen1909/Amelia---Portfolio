@@ -21,7 +21,7 @@ Danny wants to use the data to answer a few simple questions about his customers
 
 ## 3. Questions and Solutions
 
-I have published an explanation to my solutions on [Medium](https://medium.com/@ameliathermopolis0508/case-study-1-dannys-diner-8-weeks-sql-challenge-92abf032b999)!
+I have published detailed explanations of my solutions on [Medium](https://medium.com/@ameliathermopolis0508/case-study-1-dannys-diner-8-weeks-sql-challenge-92abf032b999)!
 
 ## 4. Thank You note and further information
 
